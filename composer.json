@@ -1,0 +1,18 @@
+{
+    "name": "promoting/center",
+    "authors": [
+        {
+            "name": "gaozhongqiang",
+            "email": "1225000209@qq.com"
+        }
+    ],
+    "description": "推广中心操纵",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Promoting\\Center\\": ""
+        }
+    }
+}
